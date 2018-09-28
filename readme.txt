@@ -1,2 +1,2 @@
-Git is version system.
+Git is distributed version system.
 Git is free soteware
