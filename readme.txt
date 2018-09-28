@@ -1,2 +1,3 @@
 Git is distributed version system.
-Git is free soteware
+Git is free soteware distributed under the GPL.
+
